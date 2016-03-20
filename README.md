@@ -27,3 +27,5 @@ Restart your computer.
     sudo apt-get install linux-headers-4.2.0.27 linux-headers-4.2.0.27-generic linux-image-4.2.0.27-generic --fix missing
 
 Restart your computer.
+
+Note : I tried upgrading my kernel from 3.19 to 4.2. It resulted in no wifi detection and no sound. 
